@@ -1,4 +1,4 @@
-# Zoonomics Working Group
+# Biobank Alliance Working Group
 
 ![Zoonomics Logo](https://github.com/user-attachments/assets/22ae73c8-7b4c-4415-bfc0-fde36afc9bbe)
 
