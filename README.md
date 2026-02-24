@@ -4,7 +4,7 @@
 
 Welcome to the **Biobank Alliance Working Group** repository.
 
-This repository serves as a collaborative space for Zoonomics Working Group Phase 2 members to:
+This repository serves as a collaborative space for Biobank Alliance Working Group Phase 2 members to:
 
 - Collaborate on objectives  
 - Have open discussions  
