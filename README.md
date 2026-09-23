@@ -1,7 +1,5 @@
 # Biobank Alliance Working Group
 
-![Zoonomics Logo](https://github.com/user-attachments/assets/22ae73c8-7b4c-4415-bfc0-fde36afc9bbe)
-
 Welcome to the **Biobank Alliance Working Group** repository.
 
 This repository serves as a collaborative space for Biobank Alliance Working Group Phase 2 members to:
